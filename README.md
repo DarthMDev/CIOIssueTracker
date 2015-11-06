@@ -1,2 +1,2 @@
 # CIOIssueTracker
-Track issues for CIO!
+Track issues for Cog Invasion Online!
